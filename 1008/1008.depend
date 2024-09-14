@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1717237003 source:/home/kali/Desktop/coding/problems/lightoj/1008/main.cpp
+	<iostream>
+	<math.h>
+	<cstdio>
+
